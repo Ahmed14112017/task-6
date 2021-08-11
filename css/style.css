@@ -1,0 +1,25 @@
+ul{
+    list-style: none;
+    overflow: hidden;
+    margin: auto;
+    width: 200px;
+   
+}
+
+ul li{
+    float: left;
+    padding: 5px 10px;
+    font-weight: 900;
+}
+ul li a{
+    text-decoration: none;
+    color:darkslateblue;
+}
+.test{
+    text-align: center;
+}
+.test p{
+    width: 400px;
+    text-align: center;
+    margin: auto;
+}
